@@ -1,8 +1,8 @@
 # odin-recipes
 ## Odin Project to learn HTML
 ### Goals of project
--Build a basic recipe website
--Practice with HTML
+- Build a basic recipe website
+- Practice with HTML
 
 ### TO DO
 - [ ] Initial Structure
