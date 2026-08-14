@@ -18,6 +18,6 @@
     - [x] Create new HTML file
     - [x] Add links on homepage and back to homepage
     - [x] Build body of recipe page including free image
-- [ ] Publish site through GitHub
+- [x] Publish site through GitHub
 
 All images used come from [Swasthi's Recipes](https://www.indianhealthyrecipes.com/)
