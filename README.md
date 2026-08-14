@@ -10,12 +10,12 @@
     - [x] Create new HTML file
     - [x] Add links on homepage and back to homepage
     - [x] Build body of recipe page including free image
-- [ ] Second recipe page: Flavoured rice
-    - [ ] Create new HTML file
-    - [ ] Add links on homepage and back to homepage
-    - [ ] Build body of recipe page including free image
-- [ ] Third recipe page: Grilled Chicken Tikka
-    - [ ] Create new HTML file
-    - [ ] Add links on homepage and back to homepage
-    - [ ] Build body of recipe page including free image
+- [x] Second recipe page: Flavoured rice
+    - [x] Create new HTML file
+    - [x] Add links on homepage and back to homepage
+    - [x] Build body of recipe page including free image
+- [x] Third recipe page: Grilled Chicken Tikka
+    - [x] Create new HTML file
+    - [x] Add links on homepage and back to homepage
+    - [x] Build body of recipe page including free image
 - [ ] Publish site through GitHub
