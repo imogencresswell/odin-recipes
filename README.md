@@ -5,11 +5,11 @@
 - Practice with HTML
 
 ### TO DO
-- [ x ] Initial Structure
-- [ x ] First recipe page: Saag Paneer
-    - [ x ] Create new HTML file
-    - [ x ] Add links on homepage and back to homepage
-    - [ x ] Build body of recipe page including free image
+- [x] Initial Structure
+- [x] First recipe page: Saag Paneer
+    - [x] Create new HTML file
+    - [x] Add links on homepage and back to homepage
+    - [x] Build body of recipe page including free image
 - [ ] Second recipe page: Flavoured rice
     - [ ] Create new HTML file
     - [ ] Add links on homepage and back to homepage
